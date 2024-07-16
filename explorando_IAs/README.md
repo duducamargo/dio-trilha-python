@@ -18,6 +18,6 @@ O resultado é um e-book bem estruturado e informativo, que explica como a intel
 
 É possível acessar o e-book por meio deste [link](https://gamma.app/docs/Utilizando-a-Inteligencia-Artificial-para-Aprender-Programacao-fh034s9wtwu32g5).
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 Criar este e-book foi uma experiência muito interessante. Utilizar a inteligência artificial para gerar conteúdo educativo não apenas demonstrou o poder dessas ferramentas, mas também facilitou a criação de um recurso valioso para quem está estudando programação. Este projeto é um exemplo de como a tecnologia pode ser utilizada de forma criativa e eficaz para melhorar o processo de aprendizado.
 Diga-se de passagem, literalmente tudo que se encontra nesse projeto foi gerado por uma Inteligência Artificial Generativa...

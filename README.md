@@ -1,21 +1,26 @@
-# Desafios de Desenvolvimento Python
-Este repositório contém um projeto prático relacionado ao desenvolvimento em Python. O projeto é projetado para ajudar os alunos a aprimorar suas habilidades de programação, aplicar conceitos aprendidos em aula e desenvolver soluções criativas para problemas comuns de programação.
+# Python Development Challenges
 
-## Estrutura do Repositório
-O repositório está organizado de forma simples, contendo um único projeto centralizado em um tópico específico. Abaixo está uma breve visão geral do projeto disponível:
+This repository contains a practical project related to Python development. The project is designed to help students enhance their programming skills, apply concepts learned in class, and develop creative solutions to common programming problems.
 
-- **conta_bancaria_1.0**: Este projeto é relacionado ao controle de fluxo e à leitura de dados por meio do terminal. O programa implementado, `sistema_bancario.py`, simula um sistema bancário básico, permitindo operações como criação de conta, depósito, saque e visualização de saldo.
+## Repository Structure
 
-## Como Usar Este Repositório
-1. Clone este repositório em sua máquina local usando o comando `git clone`.
-2. Navegue até o diretório do projeto `conta_bancaria_1.0`.
-3. Leia a descrição e as instruções do projeto no arquivo `README.md` dentro do diretório.
-4. Implemente ou execute sua solução para o projeto, seguindo as instruções fornecidas.
-5. Teste sua solução e verifique se ela atende aos requisitos especificados.
-6. Compartilhe sua solução, se desejar, criando um fork deste repositório e enviando um pull request.
+The repository is organized in a simple way, containing a single project focused on a specific topic. Below is a brief overview of the available project:
 
-## Contribuição
-Contribuições para este repositório são bem-vindas! Se você tem uma melhoria para sugerir, uma correção para fazer ou uma nova funcionalidade para adicionar, sinta-se à vontade para abrir um problema ou enviar um pull request.
+- **conta_bancaria_1.0**: This project is related to flow control and data reading through the terminal. The implemented program, `sistema_bancario.py`, simulates a basic banking system, allowing operations like account creation, deposit, withdrawal, and balance check.
 
-## Licença
-Este repositório está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
+## How to Use This Repository
+
+1. Clone this repository to your local machine using the `git clone` command.
+2. Navigate to the project directory `conta_bancaria_1.0`.
+3. Read the project description and instructions in the `README.md` file inside the directory.
+4. Implement or run your solution for the project, following the provided instructions.
+5. Test your solution and ensure it meets the specified requirements.
+6. Share your solution if you wish by creating a fork of this repository and submitting a pull request.
+
+## Contribution
+
+Contributions to this repository are welcome! If you have an improvement to suggest, a fix to make, or a new feature to add, feel free to open an issue or submit a pull request.
+
+## License
+
+This repository is licensed under the MIT License. See the LICENSE file for more details.
